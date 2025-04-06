@@ -1,6 +1,6 @@
-# Tablet System Instructions
+# Tablet Usage Instructions
 
-This documentation provides detailed instructions for using the tablet system at Last Chance Animal Rescue to manage cats and process adoptions.
+This documentation provides detailed instructions for using the tablet at Last Chance Animal Rescue to manage cats and process adoptions.
 
 ## Contents
 
@@ -14,24 +14,10 @@ This documentation provides detailed instructions for using the tablet system at
 ## Basic Operations
 
 ### Logging In
-1. Turn on the tablet by pressing the power button
-2. Tap the Last Chance Animal Rescue app icon
-3. Enter your volunteer ID and password
-4. Tap "Login"
+(need input)
 
 ### Navigation
-- Use the bottom menu to access different sections:
-  - Cats
-  - Adopters
-  - Applications
-  - Events
-  - Resources
-
-### General Tips
-- Always lock the tablet when not in use (press power button once)
-- Make sure the tablet is plugged in at the end of your shift
-- Report any issues with the tablet to the tech coordinator
-- Do not install additional apps or change system settings
+(need input)
 
 ## Quick Guides
 
