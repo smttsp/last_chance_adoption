@@ -27,34 +27,9 @@ All volunteers must complete the following training:
 - Direct impact on saving cats' lives
 - Skills development in animal care and adoption counseling
 - Community of like-minded animal lovers
-- References for school or job applications (after 6 months of service)
+- References for school applications
 - Invitation to volunteer appreciation events
 - Knowledge that you're making a difference for cats in need
-
-## Continuing Education
-
-We offer ongoing educational opportunities for volunteers:
-
-- Monthly volunteer meetings with educational components
-- Webinars on cat behavior and health
-- Workshops on special topics (e.g., socializing shy cats, medical care)
-- Mentoring opportunities with experienced volunteers
-
-## Resources for Volunteers
-
-- [Volunteer Handbook](./volunteer-handbook.md)
-- [FAQ for Volunteers](./volunteer-faq.md)
-- [Volunteer Contact List](./volunteer-contacts.md)
-- [Community Resources for Pet Owners](./community-resources.md)
-
-## Recognition Program
-
-Last Chance Adoption recognizes volunteer contributions through:
-
-- Volunteer of the Month recognition
-- Annual service awards
-- Special acknowledgment for extraordinary contributions
-- Social media spotlights on volunteer accomplishments
 
 ## Questions and Support
 

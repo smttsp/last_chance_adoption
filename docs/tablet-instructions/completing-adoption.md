@@ -66,31 +66,6 @@ The system will display a checklist of adoption requirements. Mark each item as 
 3. A confirmation dialog will appear; tap "Confirm"
 4. The system will update the cat's status to "Adopted"
 
-### 6. Add Follow-up Information
-
-1. Enter follow-up schedule:
-   - Tap "Schedule Follow-up"
-   - Select date for initial follow-up (typically 1-2 weeks after adoption)
-   - Add any notes for the follow-up
-   - Tap "Save Follow-up"
-
-### 7. Finalize and Document
-
-1. Take a photo of the adopter with their new cat (with permission)
-   - Tap "Add Photo"
-   - Select "Take Photo"
-   - Frame the adopter and cat in the view
-   - Tap the capture button
-   - Confirm or retake the photo
-2. Add any final notes about the adoption
-3. Tap "Save and Finalize"
-
-### 8. Generate Adoption Certificate (Optional)
-
-1. From the completed adoption screen, tap "Generate Certificate"
-2. The system will create a digital adoption certificate
-3. Tap "Print" to print a physical copy, or "Email" to send electronically to the adopter
-
 ## After Completing the Adoption
 
 1. Provide the adopter with:
