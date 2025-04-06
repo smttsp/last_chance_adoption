@@ -1,13 +1,6 @@
 # Adoption Process
 
-This section outlines the complete adoption process at Last Chance Adoption for our PetSmart location.
-
-## Contents
-
-1. [Initial Meet and Greet](./meet-and-greet.md)
-2. [Adoption Application Review](./application-review.md)
-3. [Processing the Adoption](./processing-adoption.md)
-4. [Adoption Completion](./adoption-completion.md)
+This section outlines the complete adoption process at Last Chance Animal Rescue for our PetSmart location.
 
 ## Step-by-Step Adoption Workflow
 
@@ -17,20 +10,23 @@ This section outlines the complete adoption process at Last Chance Adoption for 
 - Only allow one potential adopter inside the cat area at a time
 - Ensure door remains closed at all times to prevent escapes
 - Assess if they're potentially good adopters based on interaction
+- [Read detailed instructions →](./meet-and-greet.md)
 
-### 2. Application Process
+### 2. Adoption Application Review
 - If interested, have visitor complete the Feline Adoption Request Form
 - Review the completed form for any red flags
 - Evaluate if the chosen cat is a good match for their household:
   - Check if cat is good with children (if applicable)
   - Check if cat is good with other pets (if applicable)
   - Consider space requirements and lifestyle compatibility
+- [Read detailed instructions →](./application-review.md)
 
 ### 3. Processing the Adoption
 - If approved, locate the correct cat in the tablet system
 - Process the adoption transaction in the system
 - Collect the adoption fee
 - Document all information accurately
+- [Read detailed instructions →](./processing-adoption.md)
 
 ### 4. Adoption Completion
 - Provide the cat's paperwork and information to the adopter
@@ -38,6 +34,7 @@ This section outlines the complete adoption process at Last Chance Adoption for 
 - Provide care instructions and recommendations
 - Safely transfer the cat to the adopter's carrier
 - Congratulate the new pet parent!
+- [Read detailed instructions →](./adoption-completion.md)
 
 ## Special Considerations
 

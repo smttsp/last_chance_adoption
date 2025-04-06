@@ -17,7 +17,7 @@ Before visitors arrive:
 
 When visitors approach the cat area:
 
-1. Greet them warmly and introduce yourself as a Last Chance Adoption volunteer
+1. Greet them warmly and introduce yourself as a Last Chance Animal Rescue volunteer
 2. Ask if they're looking for a specific type of cat or just browsing
 3. Offer to answer any questions about our cats or adoption process
 4. Gauge their level of interest and seriousness about adoption

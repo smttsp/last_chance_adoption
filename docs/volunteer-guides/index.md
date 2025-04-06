@@ -1,6 +1,6 @@
 # Volunteer Guides
 
-This section contains comprehensive information for Last Chance Adoption volunteers, including orientation materials, responsibilities, and training guides.
+This section contains comprehensive information for Last Chance Animal Rescue volunteers, including orientation materials, responsibilities, and training guides.
 
 ## Contents
 

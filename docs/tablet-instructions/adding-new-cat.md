@@ -1,6 +1,6 @@
 # Adding a New Cat
 
-This guide provides step-by-step instructions for adding a new cat to the Last Chance Adoption system using the tablet.
+This guide provides step-by-step instructions for adding a new cat to the Last Chance Animal Rescue system using the tablet.
 
 ## Before You Begin
 

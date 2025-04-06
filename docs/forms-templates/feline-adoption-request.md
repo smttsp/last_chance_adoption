@@ -1,6 +1,6 @@
 # Feline Adoption Request Form
 
-This is the official adoption application form used by Last Chance Adoption. All potential adopters must complete this form before being considered for adoption.
+This is the official adoption application form used by Last Chance Animal Rescue. All potential adopters must complete this form before being considered for adoption.
 
 ## Form Contents
 
@@ -30,7 +30,7 @@ The Feline Adoption Request Form includes the following sections:
 - If renting, confirmation that pets are allowed
 - If renting, landlord permission verification
 - Landlord contact information
-- Understanding that Last Chance cats are strictly indoor cats
+- Understanding that Last Chance Animal Rescue cats are strictly indoor cats
 - Readiness for acclimating a new cat
 - Knowledge about declawing and agreement not to declaw
 - Expected acclimation time

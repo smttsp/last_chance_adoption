@@ -54,7 +54,6 @@ The system will display a checklist of adoption requirements. Mark each item as 
    - Amount: $________
    - Payment method: □ Cash □ Credit Card □ Check □ Other: ________
 - □ Medical records provided
-- □ Microchip registration transferred/updated
 - □ Adopter ID verified
 - □ New collar/ID tag provided (if applicable)
 - □ Starter kit provided (if applicable)

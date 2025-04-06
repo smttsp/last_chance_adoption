@@ -1,10 +1,10 @@
 # New Volunteer Orientation
 
-Welcome to Last Chance Adoption! This guide will help you get started as a new volunteer. We're thrilled to have you join our team in helping cats find their forever homes.
+Welcome to Last Chance Animal Rescue! This guide will help you get started as a new volunteer. We're thrilled to have you join our team in helping cats find their forever homes.
 
-## About Last Chance Adoption
+## About Last Chance Animal Rescue
 
-Last Chance Adoption is dedicated to rescuing cats from high-kill shelters and other at-risk situations. We work with a network of foster homes and adoption centers to care for these cats until they find their permanent homes. Our volunteers are the backbone of our organization, providing essential care, socialization, and adoption services.
+Last Chance Animal Rescue is dedicated to rescuing cats from high-kill shelters and other at-risk situations. We work with a network of foster homes and adoption centers to care for these cats until they find their permanent homes. Our volunteers are the backbone of our organization, providing essential care, socialization, and adoption services.
 
 ## Mission and Values
 
@@ -154,4 +154,4 @@ All volunteers must:
 3. Sign up for your first volunteer shift
 4. Join our volunteer communication channels
 
-Thank you for joining Last Chance Adoption! Your dedication and compassion will make a huge difference in the lives of the cats in our care. 
+Thank you for joining Last Chance Animal Rescue! Your dedication and compassion will make a huge difference in the lives of the cats in our care. 

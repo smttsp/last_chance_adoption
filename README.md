@@ -1,6 +1,6 @@
-# Last Chance Adoption Rescue Volunteer Documentation
+# Last Chance Animal Rescue Volunteer Documentation
 
-Welcome to the Last Chance Adoption volunteer documentation. This resource contains all the information you need to help our feline friends find their forever homes.
+Welcome to the Last Chance Animal Rescue volunteer documentation. This resource contains all the information you need to help our feline friends find their forever homes.
 
 ## Main Documentation Sections
 
@@ -27,9 +27,9 @@ New volunteers should start with these resources:
 3. Familiarize yourself with the [Adoption Process](./docs/adoption-process/index.md)
 4. Learn how to use the [Tablet System](./docs/tablet-instructions/index.md)
 
-## About Last Chance Adoption Rescue
+## About Last Chance Animal Rescue
 
-Last Chance Adoption Rescue is dedicated to finding homes for cats from shelters and other at-risk situations. Our volunteers are the heart of our organization, providing care, socialization, and adoption services to ensure each cat finds their perfect match.
+Last Chance Animal Rescue is dedicated to finding homes for cats from shelters and other at-risk situations. Our volunteers are the heart of our organization, providing care, socialization, and adoption services to ensure each cat finds their perfect match.
 
 ## Contact
 
