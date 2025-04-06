@@ -10,7 +10,7 @@ This repository contains the complete documentation for Last Chance Adoption's v
 
 The documentation is organized into the following sections:
 
-- **Adoption Process**: Guidelines for handling inquiries, meeting potential adopters, processing applications, conducting home checks, finalizing adoptions, and follow-up procedures.
+- **Adoption Process**: Guidelines for handling inquiries, meeting potential adopters, processing applications, and finalizing adoptions.
 
 - **Volunteer Guides**: Information on volunteer roles, responsibilities, onboarding, and training materials.
 

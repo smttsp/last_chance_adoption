@@ -1,71 +1,62 @@
 # Adoption Process
 
-This section outlines the complete adoption process at Last Chance Adoption, from initial inquiry to post-adoption follow-up.
+This section outlines the complete adoption process at Last Chance Adoption for our PetSmart location.
 
 ## Contents
 
-1. [Inquiry Handling](./inquiry-handling.md)
-2. [Meet and Greet](./meet-and-greet.md)
-3. [Application Review](./application-review.md)
-4. [Home Check](./home-check.md)
-5. [Finalizing Adoption](./finalizing-adoption.md)
-6. [Post-Adoption Follow-up](./post-adoption-followup.md)
+1. [Initial Meet and Greet](./meet-and-greet.md)
+2. [Adoption Application Review](./application-review.md)
+3. [Processing the Adoption](./processing-adoption.md)
+4. [Adoption Completion](./adoption-completion.md)
 
 ## Step-by-Step Adoption Workflow
 
-### 1. Initial Inquiry
-- Respond to adoption inquiries within 24 hours
-- Provide basic information about our adoption process
-- Send [pre-adoption questionnaire](../forms-templates/pre-adoption-questionnaire.md)
-- Schedule initial visit if appropriate
+### 1. Initial Meet and Greet
+- Greet visitors at our PetSmart location
+- Show them available cats and provide basic information
+- Only allow one potential adopter inside the cat area at a time
+- Ensure door remains closed at all times to prevent escapes
+- Assess if they're potentially good adopters based on interaction
 
-### 2. Meet and Greet
-- Introduce potential adopter to cat(s)
-- Observe interaction between adopter and cat
-- Answer questions about the cat's history, personality, and needs
-- Provide adoption package information
+### 2. Application Process
+- If interested, have visitor complete the Feline Adoption Request Form
+- Review the completed form for any red flags
+- Evaluate if the chosen cat is a good match for their household:
+  - Check if cat is good with children (if applicable)
+  - Check if cat is good with other pets (if applicable)
+  - Consider space requirements and lifestyle compatibility
 
-### 3. Application Process
-- Review completed [adoption application](../forms-templates/adoption-application.md)
-- Check references (personal and veterinary)
-- Conduct phone interview
-- Schedule home check if application is approved
+### 3. Processing the Adoption
+- If approved, locate the correct cat in the tablet system
+- Process the adoption transaction in the system
+- Collect the adoption fee
+- Document all information accurately
 
-### 4. Home Check
-- Verify living conditions are suitable for cat
-- Discuss specific needs of the chosen cat
-- Address any safety concerns
-- Provide advice on cat-proofing if needed
+### 4. Adoption Completion
+- Provide the cat's paperwork and information to the adopter
+- Give the PetSmart discount booklet to the adopter
+- Provide care instructions and recommendations
+- Safely transfer the cat to the adopter's carrier
+- Congratulate the new pet parent!
 
-### 5. Adoption Finalization
-- Complete [adoption contract](../forms-templates/adoption-contract.md)
-- Collect adoption fee
-- Provide medical records and care information
-- Transfer microchip registration
-- Document the adoption in tablet system (see [Completing an Adoption](../tablet-instructions/completing-adoption.md))
+## Special Considerations
 
-### 6. Post-Adoption Support
-- Schedule follow-up call/visit after 1-2 weeks
-- Address any adjustment concerns
-- Send 3-month check-in email
-- Invite to adopter community events
+### Cat Matching
+- Always prioritize appropriate matches over completing adoptions
+- Consider the cat's known behavior and preferences
+- Ensure the adopter's home situation is suitable for the specific cat
 
-## Special Cases
+### Safety Protocols
+- Never leave the cat area door open or unattended
+- Ensure all cats wear appropriate collars/harnesses when outside enclosures
+- Double-check that carriers are properly secured before transfer
 
-### Senior Cats
-- Modified adoption fee
-- Additional health information provided
-- Special follow-up schedule
+## Forms Used in the Process
 
-### Cats with Medical Needs
-- Detailed care instructions
-- Medication training if needed
-- Regular check-in schedule
+- [Feline Adoption Request Form](../forms-templates/feline-adoption-request.md) - The application form that all potential adopters must complete
 
-### Bonded Pairs
-- Must be adopted together
-- Special considerations for space requirements
+## Adoption Fees and Payment
 
-## Common Questions and Concerns
-
-See our [FAQ for Potential Adopters](./faq.md) for responses to common questions during the adoption process. 
+- Standard adoption fee: $175 per cat cash, $186 if credit card
+- Acceptable payment methods: cash or digital payment
+- All fees include: spay/neuter, vaccinations, and initial health check 
