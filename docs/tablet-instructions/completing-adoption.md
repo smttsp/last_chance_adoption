@@ -6,29 +6,40 @@ This guide provides step-by-step instructions for finalizing an adoption using t
 
 Before starting the adoption completion process, ensure:
 - The adoption application has been approved
-- The home check has been completed (if required)
-- The adoption fee has been collected
+- The adoption fee has been collected (if paid by cash)
 - The adoption contract has been signed
 - All necessary paperwork is complete
 
 ## Step-by-Step Instructions
 
-### 1. Access the Cat's Profile
+### 1. Access the Tablet and Select Last Chance
 
-1. Log into the tablet system with your volunteer credentials
-2. Tap "Cats" on the bottom navigation menu
-3. Find the cat being adopted using one of these methods:
-   - Scroll through the list of available cats
-   - Use the search function by tapping the magnifying glass icon and entering the cat's name or ID
-   - Scan the cat's ID card by tapping the barcode icon (if available)
-4. Tap on the cat's profile to open it
+1.  Enter the password to unlock the device.
+    *   *Note: The password is set by PetSmart staff. If you do not know it, please ask a PetSmart employee.*
+2.  Tap "Customer Engagement". (See `img1.png`)
+3.  Select "AME" (Adoption Made Easy). (See `img2.png`)
+4.  Select store number **447**. (See `img3.png`)
+5.  Tap the blue confirmation button. (See `img4.png`)
+6.  Confirm the store selection when prompted. (See `img5.png`)
+7.  The initial pet list may be empty. Tap the "Home" button.
+8.  Select "Last Chance" from the options. (See `img6.png`)
+9.  You should now see the list of available Last Chance cats.
 
-### 2. Access the Adoption Process
+<!-- 
+### 2. Find the Cat Being Adopted
+
+1.  Find the cat being adopted using one of these methods:
+    *   Scroll through the list of available cats.
+    *   Use the search function by tapping the magnifying glass icon and entering the cat's name or ID.
+    *   Scan the cat's ID card by tapping the barcode icon (if available).
+2.  Tap on the cat's profile to open it.
+
+### 3. Access the Adoption Process
 
 1. From the cat's profile, tap the "Process Adoption" button
 2. A new screen will appear to guide you through the adoption process
 
-### 3. Select or Add Adopter
+### 4. Select or Add Adopter
 
 1. The system will prompt you to select an adopter
 2. If the adopter is already in the system:
@@ -44,7 +55,7 @@ Before starting the adoption completion process, ensure:
      - Email address
    - Tap "Save Adopter" to continue
 
-### 4. Verify Adoption Requirements
+### 5. Verify Adoption Requirements
 
 The system will display a checklist of adoption requirements. Mark each item as completed:
 
@@ -58,7 +69,7 @@ The system will display a checklist of adoption requirements. Mark each item as 
 - □ New collar/ID tag provided (if applicable)
 - □ Starter kit provided (if applicable)
 
-### 5. Complete the Adoption
+### 6. Complete the Adoption
 
 1. Review all information for accuracy
 2. Tap "Complete Adoption" button
@@ -92,4 +103,4 @@ The system will display a checklist of adoption requirements. Mark each item as 
 - **Adopter Not Found in System**: Double-check spelling; if truly not in system, add as new adopter
 - **Cannot Complete Adoption Due to Missing Requirements**: Note which requirements are missing and explain to the adopter what needs to be completed before proceeding
 
-For technical issues that persist, contact the tech coordinator at [contact information]. 
+For technical issues that persist, contact the tech coordinator at [contact information].  -->
