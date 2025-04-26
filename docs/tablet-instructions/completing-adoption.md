@@ -16,13 +16,19 @@ Before starting the adoption completion process, ensure:
 
 1.  Enter the password to unlock the device.
     *   *Note: The password is set by PetSmart staff. If you do not know it, please ask a PetSmart employee.*
-2.  Tap "Customer Engagement". (See `img1.png`)
-3.  Select "AME" (Adoption Made Easy). (See `img2.png`)
-4.  Select store number **447**. (See `img3.png`)
-5.  Tap the blue confirmation button. (See `img4.png`)
-6.  Confirm the store selection when prompted. (See `img5.png`)
+2.  Tap "Customer Engagement".
+    ![Customer Engagement Screen](adoption_images/img1.png)
+3.  Select "AME" (Adoption Made Easy).
+    ![AME Selection Screen](adoption_images/img2.png)
+4.  Select store number **447**.
+    ![Store Number Selection](adoption_images/img3.png)
+5.  Tap the blue confirmation button.
+    ![Blue Confirmation Button](adoption_images/img4.png)
+6.  Confirm the store selection when prompted.
+    ![Confirm Store Selection](adoption_images/img5.png)
 7.  The initial pet list may be empty. Tap the "Home" button.
-8.  Select "Last Chance" from the options. (See `img6.png`)
+8.  Select "Last Chance" from the options.
+    ![Select Last Chance Option](adoption_images/img6.png)
 9.  You should now see the list of available Last Chance cats.
 
 <!-- 
