@@ -7,7 +7,7 @@ This documentation provides detailed instructions for using the tablet at Last C
 1. [Getting Started](./getting-started.md)
 2. [Adding a New Cat](./adding-new-cat.md)
 3. [Updating Cat Information](./updating-cat-info.md)
-4. [Processing Applications](./processing-applications.md)
+4. [Processing Applications](./processing-adoption.md)
 5. [Completing an Adoption](./completing-adoption.md)
 6. [Troubleshooting](./troubleshooting.md)
 
