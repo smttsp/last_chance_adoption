@@ -26,7 +26,7 @@ This section outlines the complete adoption process at Last Chance Animal Rescue
 - Process the adoption transaction in the system
 - Collect the adoption fee
 - Document all information accurately
-- [Read detailed instructions →](./processing-adoption.md)
+- [Read detailed instructions →](./tablet-instructions/processing-adoption.md)
 
 ### 4. Adoption Completion
 - Provide the cat's paperwork and information to the adopter

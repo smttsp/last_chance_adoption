@@ -29,16 +29,19 @@ Before starting the adoption completion process, ensure:
 7.  The initial pet list may be empty. Tap the "Home" button.
 8.  Select "Last Chance" from the options.
     ![Select Last Chance Option](adoption_images/img6.png)
-9.  You should now see the list of available Last Chance cats.
+9.  You should now see the list of available cats at Last Chance at PetSmart at Potomac Yards.
 
-<!-- 
+
 ### 2. Find the Cat Being Adopted
 
-1.  Find the cat being adopted using one of these methods:
-    *   Scroll through the list of available cats.
-    *   Use the search function by tapping the magnifying glass icon and entering the cat's name or ID.
-    *   Scan the cat's ID card by tapping the barcode icon (if available).
-2.  Tap on the cat's profile to open it.
+1.  Find the cat being adopted by one of:
+    - scrolling through the list of available cats. 
+    - searching the ID in the search bar 
+    - **Remark**: If the cat is not available, please add the cat to the system (See instructions # TODO add the instructions)
+2.  Click on Process Adoption Button for the cat being adopted 
+3.  Close the pop up 
+
+<!-- 
 
 ### 3. Access the Adoption Process
 
